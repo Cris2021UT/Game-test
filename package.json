@@ -1,0 +1,15 @@
+{
+  "name": "homefoot-08-21-2022",
+  "version": "1.0.0",
+  "description": "Jogo que simula um treinador de futebol.",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {},
+  "author": "Cristiano Frota Menezes",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19",
+    "socket.io": "^4.5.1"
+  }
+}
